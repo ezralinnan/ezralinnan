@@ -13,4 +13,4 @@ I'm currently working on:
 Languages: `Python`, `R`, `C++`, `SQL`  
 Tools: `PyTorch`, `Pandas`, `Numpy`, `Matplotlib`, `Scikit-learn`  
 
-📎[LinkedIn](https://linkedin.com/in/ezra-linnan) [Resume](https://github.com/ezralinnan/ezralinnan/blob/main/Ezra Linnan Internship Resume.pdf)
+📎[LinkedIn](https://linkedin.com/in/ezra-linnan) [Resume](https://github.com/ezralinnan/ezralinnan/elinnan_resume.pdf)
