@@ -10,7 +10,7 @@ I'm currently working on:
 - Natural Language Processing using `VADERS` and `BERT` models
 - learning the underlying architecture and theory of transformer models
 
-Languages: `Python`, `R`, `C++`, `SQL`
-Tools: `PyTorch`, `Pandas`, `Numpy`, `Matplotlib`, `Scikit-learn`
+Languages: `Python`, `R`, `C++`, `SQL`  
+Tools: `PyTorch`, `Pandas`, `Numpy`, `Matplotlib`, `Scikit-learn`  
 
 📎[LinkedIn](https://linkedin.com/in/ezra-linnan)
