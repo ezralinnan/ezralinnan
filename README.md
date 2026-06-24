@@ -8,7 +8,7 @@ I'm also service-oriented and seek to use my skills and experience to help local
 I've worked with regression, classification, neural networks, diffusion models, and the math behind foundational machine learning methods.
 
 I'm currently working on:  
-- NLP sentiment analysis using `VADERS` and `BERT` models
+- NLP sentiment analysis using `VADER` and `BERT` models
 - forecasting ticket sales for nonprofit performing arts internship to assist end-of-season business decisions
 - building neural networks from scratch in `numpy`
 - diving into the underlying architecture and theory of transformer models
